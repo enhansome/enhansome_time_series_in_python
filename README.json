@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "We would like to trigger a homogenization of the formats which are used in the python time series community, please see the concept page",
+      "items": [],
+      "title": "Examples or singular models"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:06.207Z",
+    "original_repository": "MaxBenChrist/awesome_time_series_in_python",
+    "original_repository_sha": "c0207e32d03132a77b0f90592cee02f86fb7cb1b",
+    "enhanced_repository": "enhansome/enhansome_time_series_in_python",
+    "enhanced_repository_description": null,
+    "title": "Awesome Using python to work with time series data with stars"
+  }
+}

@@ -1,7 +1,1006 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Arrow",
+              "description": "A sensible, human-friendly approach to creating, manipulating, formatting and converting dates, times, and timestamps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6750871,
+                "language": "Python",
+                "last_commit": "2026-06-22T02:12:59Z",
+                "owner": "arrow-py",
+                "repo": "arrow",
+                "stars": 9049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bta-lib",
+              "description": "Technical Analysis library in pandas for backtesting algotrading and quantitative analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237531189,
+                "language": "Python",
+                "last_commit": "2022-01-25T15:02:59Z",
+                "owner": "mementum",
+                "repo": "bta-lib",
+                "stars": 502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cesium",
+              "description": "Time series platform with feature extraction aiming for non uniformly sampled signals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25928850,
+                "language": "Python",
+                "last_commit": "2025-01-17T17:37:18Z",
+                "owner": "cesium-ml",
+                "repo": "cesium",
+                "stars": 683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Darts",
+              "description": "A library making it very easy to produce forecasts using a wide range of models, from ARIMA to deep learning. Also does ensembling, model selection and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148657183,
+                "language": "Python",
+                "last_commit": "2026-08-21T08:30:55Z",
+                "owner": "unit8co",
+                "repo": "darts",
+                "stars": 9504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ETNA",
+              "description": "A python library for time series forecasting and analysis with temporal data structure always in mind. Includes a variety of predictive models with unified interface along with EDA and validation methods",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 400528139,
+                "language": "Python",
+                "last_commit": "2023-08-09T15:52:57Z",
+                "owner": "tinkoff-ai",
+                "repo": "etna",
+                "stars": 882
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GENDIS",
+              "description": "Shapelet discovery by genetic algorithms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142547104,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-07-06T21:23:55Z",
+                "owner": "predict-idlab",
+                "repo": "GENDIS",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "glm-sklearn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10560569,
+                "language": "Python",
+                "last_commit": "2013-07-26T00:10:46Z",
+                "owner": "modusdatascience",
+                "repo": "glm-sklearn",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scikit-learn compatible wrapper around the GLM module in statsmodels",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1885237,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:58:54Z",
+                "owner": "statsmodels",
+                "repo": "statsmodels",
+                "stars": 11589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Featuretools",
+              "description": "Time series feature extraction, with possible conditionality on other variables with a pandas compatible relational-database-like data container",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102908804,
+                "language": "Python",
+                "last_commit": "2026-07-27T13:04:38Z",
+                "owner": "alteryx",
+                "repo": "featuretools",
+                "stars": 7665
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fecon235",
+              "description": "Computational tools for financial economics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26385494,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-20T06:53:24Z",
+                "owner": "rsvp",
+                "repo": "fecon235",
+                "stars": 1275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ffn",
+              "description": "financial function library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21006364,
+                "language": "Python",
+                "last_commit": "2026-08-13T14:20:22Z",
+                "owner": "pmorissette",
+                "repo": "ffn",
+                "stars": 2636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flint",
+              "description": "A Time Series Library for Apache Spark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71383857,
+                "language": "Scala",
+                "last_commit": "2020-07-03T12:32:23Z",
+                "owner": "twosigma",
+                "repo": "flint",
+                "stars": 1177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flow Forecast",
+              "description": "Flow Forecast is a deep learning for time series forecasting, classification, and anomaly detection framework built in PyTorch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202580388,
+                "language": "Python",
+                "last_commit": "2026-08-13T06:20:24Z",
+                "owner": "AIStream-Peelout",
+                "repo": "flow-forecast",
+                "stars": 2291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hctsa",
+              "description": "Matlab based feature extraction which can be controlled from python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10790340,
+                "language": "MATLAB",
+                "last_commit": "2026-08-23T23:05:20Z",
+                "owner": "benfulcher",
+                "repo": "hctsa",
+                "stars": 851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HMMLearn",
+              "description": "Hidden Markov Models with scikit-learn compatible API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18031064,
+                "language": "Python",
+                "last_commit": "2024-10-31T09:14:35Z",
+                "owner": "hmmlearn",
+                "repo": "hmmlearn",
+                "stars": 3415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "khiva-python",
+              "description": "A Time Series library with accelerated analytics on GPUS, it provides feature extraction and motif discovery among other functionalities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136338816,
+                "language": "Python",
+                "last_commit": "2024-05-20T22:03:01Z",
+                "owner": "shapelets",
+                "repo": "khiva-python",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "matrixprofile-ts",
+              "description": "Python implementation of the Matrix Profile algorithm which offers anomaly detection and pattern (or “motif”) discovery at the same time.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 148205004,
+                "language": "Python",
+                "last_commit": "2024-07-16T19:49:29Z",
+                "owner": "target",
+                "repo": "matrixprofile-ts",
+                "stars": 741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nitime",
+              "description": "Timeseries analysis for neuroscience data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294865,
+                "language": "Python",
+                "last_commit": "2026-08-15T00:47:29Z",
+                "owner": "nipy",
+                "repo": "nitime",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orbit",
+              "description": "Orbit is a Python package for Bayesian time series forecasting and inference",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232388106,
+                "language": "Python",
+                "last_commit": "2026-05-22T22:21:47Z",
+                "owner": "uber",
+                "repo": "orbit",
+                "stars": 2068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pastas",
+              "description": "Timeseries analysis for hydrological data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56300322,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:05:42Z",
+                "owner": "pastas",
+                "repo": "pastas",
+                "stars": 450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prophet",
+              "description": "Time series forecasting for time series data that has multiple seasonality with linear or non-linear growth",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73872834,
+                "language": "Python",
+                "last_commit": "2026-08-15T03:38:56Z",
+                "owner": "facebook",
+                "repo": "prophet",
+                "stars": 20364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyDSE",
+              "description": "ARMA models for Dynamic System Estimation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19489192,
+                "language": "Python",
+                "last_commit": "2020-10-04T06:43:09Z",
+                "owner": "blue-yonder",
+                "repo": "pydse",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyFlux",
+              "description": "Classical time series forecasting models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51865749,
+                "language": "Python",
+                "last_commit": "2023-10-24T16:13:23Z",
+                "owner": "RJT1990",
+                "repo": "pyflux",
+                "stars": 2135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pysf",
+              "description": "A scikit-learn compatible machine learning library for supervised/panel forecasting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139419682,
+                "language": "Python",
+                "last_commit": "2019-01-02T15:36:28Z",
+                "owner": "sktime",
+                "repo": "pysf",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyramid",
+              "description": "port of R's auto.arima method to Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86715491,
+                "language": "Python",
+                "last_commit": "2025-11-17T16:09:28Z",
+                "owner": "alkaline-ml",
+                "repo": "pmdarima",
+                "stars": 1733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch-forecasting",
+              "description": "A time series forecasting library using PyTorch with various state-of-the-art network architectures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276901861,
+                "language": "Python",
+                "last_commit": "2026-08-22T18:47:25Z",
+                "owner": "sktime",
+                "repo": "pytorch-forecasting",
+                "stars": 4974
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyts",
+              "description": "Contains time series preprocessing, transformation as well as classification techniques",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98871435,
+                "language": "Python",
+                "last_commit": "2025-06-18T15:41:19Z",
+                "owner": "johannfaouzi",
+                "repo": "pyts",
+                "stars": 1876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruptures",
+              "description": "Provides methods to find change points in time series such as shifts in the mean or scale of the signal as well as more complex changes in the probability distribution or frequency.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118264731,
+                "language": "Python",
+                "last_commit": "2026-07-06T22:04:14Z",
+                "owner": "deepcharles",
+                "repo": "ruptures",
+                "stars": 2073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "seglearn",
+              "description": "Extends the scikit-learn pipeline concept to sequence data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123977530,
+                "language": "Python",
+                "last_commit": "2022-08-27T09:01:18Z",
+                "owner": "dmbee",
+                "repo": "seglearn",
+                "stars": 575
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sktime",
+              "description": "A scikit-learn compatible library for learning with time series/panel data including time series classification/regression and (supervised/panel) forecasting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156401841,
+                "language": "Python",
+                "last_commit": "2026-08-23T22:13:28Z",
+                "owner": "sktime",
+                "repo": "sktime",
+                "stars": 9963
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "statsmodels",
+              "description": "Contains a submodule for classical time series models and hypothesis tests",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1885237,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:58:54Z",
+                "owner": "statsmodels",
+                "repo": "statsmodels",
+                "stars": 11589
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stumpy",
+              "description": "Calculates matrix profile for time series subsequence all-pairs-similarity-search",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184809315,
+                "language": "Python",
+                "last_commit": "2026-08-24T03:22:18Z",
+                "owner": "stumpy-dev",
+                "repo": "stumpy",
+                "stars": 4149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TensorFlow-Time-Series-Examples",
+              "description": "Time Series Prediction with tf.contrib.timeseries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100003921,
+                "language": "Python",
+                "last_commit": "2018-05-14T16:12:33Z",
+                "owner": "hzy46",
+                "repo": "TensorFlow-Time-Series-Examples",
+                "stars": 478
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tensorflow_probability.sts",
+              "description": "Bayesian Structural Time Series model in Tensorflow Probability",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108053674,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-06T22:18:55Z",
+                "owner": "tensorflow",
+                "repo": "probability",
+                "stars": 4427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "timemachines",
+              "description": "Functional interface to prophet and other packages, with Elo ratings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326729163,
+                "language": "Python",
+                "last_commit": "2026-07-22T12:32:57Z",
+                "owner": "microprediction",
+                "repo": "timemachines",
+                "stars": 442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Traces",
+              "description": "A library for unevenly-spaced time series analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32229117,
+                "language": "Python",
+                "last_commit": "2026-02-02T03:01:01Z",
+                "owner": "stringertheory",
+                "repo": "traces",
+                "stars": 552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ta-lib",
+              "description": "Calculate technical indicators for financial time series (python wrapper around TA-Lib)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3810626,
+                "language": "Cython",
+                "last_commit": "2026-07-29T03:37:05Z",
+                "owner": "TA-Lib",
+                "repo": "ta-lib-python",
+                "stars": 12202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tsai",
+              "description": "State-of-the-art Deep Learning with Time Series and Sequences in Pytorch / fastai",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211822289,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-23T21:55:35Z",
+                "owner": "timeseriesAI",
+                "repo": "tsai",
+                "stars": 6108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ta",
+              "description": "Calculate technical indicators for financial time series",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116043206,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-18T13:04:55Z",
+                "owner": "bukosabino",
+                "repo": "ta",
+                "stars": 5180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TIMEX",
+              "description": "Library for creating time-series-forecasting-as-a-service platforms/websites, with a fully automated data ingestion, pre-processing, prediction and results visualization pipeline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307386342,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-06-24T20:21:06Z",
+                "owner": "DhiriaDev",
+                "repo": "TIMEX",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tsflex",
+              "description": "A toolkit for flexible time series processing and feature extraction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386663484,
+                "language": "Python",
+                "last_commit": "2024-09-06T09:28:23Z",
+                "owner": "predict-idlab",
+                "repo": "tsflex",
+                "stars": 442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tsfresh",
+              "description": "Extracts and filters features from time series, allowing supervised classificators and regressor to be applied to time series data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71996613,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-06T01:28:19Z",
+                "owner": "blue-yonder",
+                "repo": "tsfresh",
+                "stars": 9295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tslearn",
+              "description": "Direct time series classifiers and regressors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90264407,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:01:58Z",
+                "owner": "tslearn-team",
+                "repo": "tslearn",
+                "stars": 3172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tspreprocess",
+              "description": "Preprocess time series (resampling, denoising etc.), still WIP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97845624,
+                "language": "Python",
+                "last_commit": "2017-11-01T20:56:42Z",
+                "owner": "MaxBenChrist",
+                "repo": "tspreprocess",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tsmoothie",
+              "description": "A python library for time-series smoothing and outlier detection in a vectorized way",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289688313,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-11-23T08:06:43Z",
+                "owner": "cerlymarco",
+                "repo": "tsmoothie",
+                "stars": 770
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ES-RNN forecasting algorithm",
+              "description": "Python implementation of the winning forecasting method of the M4 competition combining exponential smoothing with a recurrent neural network using PyTorch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156315056,
+                "language": "Python",
+                "last_commit": "2019-09-02T23:49:04Z",
+                "owner": "kgmonkhin",
+                "repo": "ESRNN-GPU",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep learning methods for time series classification",
+              "description": "A collection of common deep learning architectures for time series classification",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148122792,
+                "language": "Python",
+                "last_commit": "2023-03-18T00:30:12Z",
+                "owner": "hfawaz",
+                "repo": "dl-4-tsc",
+                "stars": 1659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LSTM-Neural-Network-for-Time-Series-Prediction",
+              "description": "LSTM based forecasting model",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76793704,
+                "language": "Python",
+                "last_commit": "2023-03-24T21:54:57Z",
+                "owner": "jaungiers",
+                "repo": "LSTM-Neural-Network-for-Time-Series-Prediction",
+                "stars": 5215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LSTM_tsc",
+              "description": "An LSTM based time-series classification neural network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55473163,
+                "language": "Python",
+                "last_commit": "2017-12-15T18:27:30Z",
+                "owner": "RobRomijnders",
+                "repo": "LSTM_tsc",
+                "stars": 419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shapelets-python",
+              "description": "Shapelet Classifier based on a multi layer neural network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61485056,
+                "language": "Python",
+                "last_commit": "2019-11-09T07:59:49Z",
+                "owner": "mohaseeb",
+                "repo": "shaplets-python",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UCR_Time_Series_Classification_Deep_Learning_Baseline",
+              "description": "Fully Convolutional Neural Networks for state-of-the-art time series classification",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73790321,
+                "language": "Python",
+                "last_commit": "2019-07-03T00:12:57Z",
+                "owner": "cauchyturing",
+                "repo": "UCR_Time_Series_Classification_Deep_Learning_Baseline",
+                "stars": 718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WTTE-RNN",
+              "description": "Time to Event forecast by RNN based Weibull density estimation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80128897,
+                "language": "Python",
+                "last_commit": "2020-08-07T06:00:31Z",
+                "owner": "ragulpr",
+                "repo": "wtte-rnn",
+                "stars": 774
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples or singular models"
+        }
+      ],
+      "title": "Machine learning, statistics, analytics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Featuretools",
+          "description": "Time series feature extraction, with possible conditionality on other variables with a pandas compatible relational-database-like data container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102908804,
+            "language": "Python",
+            "last_commit": "2026-07-27T13:04:38Z",
+            "owner": "alteryx",
+            "repo": "featuretools",
+            "stars": 7665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pysf",
+          "description": "A scikit-learn compatible library for supervised forecasting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139419682,
+            "language": "Python",
+            "last_commit": "2019-01-02T15:36:28Z",
+            "owner": "sktime",
+            "repo": "pysf",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xarray",
+          "description": "Labelled, multi-dimensional data structures as long as they have a shared time index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13221727,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:53:34Z",
+            "owner": "pydata",
+            "repo": "xarray",
+            "stars": 4190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xpandas",
+          "description": "Labelled 1D and 2D data container for storing type-heterogeneous tabular data of any type, including time series, and encapsulates feature extraction and transformation modelling in an sklearn-compatible transformer interface, work in progress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101080868,
+            "language": "Python",
+            "last_commit": "2022-06-21T21:27:45Z",
+            "owner": "sktime",
+            "repo": "xpandas",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Time series data container"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-public-datasets",
+          "description": "This huge list of public datasets also has a section on time series datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26898879,
+            "language": null,
+            "last_commit": "2026-08-23T23:52:17Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecmwf_models",
+          "description": "Readers and converters for climate reanalysis data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66842789,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:15:30Z",
+            "owner": "TUW-GEO",
+            "repo": "ecmwf_models",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pandas-datareader",
+          "description": "Pulls financial data from different sources (e.g. yahoo, google, Quandl)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29273084,
+            "language": "Python",
+            "last_commit": "2026-07-21T08:28:05Z",
+            "owner": "pydata",
+            "repo": "pandas-datareader",
+            "stars": 3238
+          }
+        }
+      ],
+      "title": "Data sets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "artic",
+          "description": "High performance datastore for time series and tick data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36506399,
+            "language": "Python",
+            "last_commit": "2024-04-08T16:35:28Z",
+            "owner": "man-group",
+            "repo": "arctic",
+            "stars": 3085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "automl_service",
+          "description": "Fully automated time series classification pipeline, deployed as a web service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99446051,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-09-16T22:33:27Z",
+            "owner": "crawles",
+            "repo": "automl_service",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cesium",
+          "description": "Time series platform with feature extraction aming for non uniformly sampled signals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25928850,
+            "language": "Python",
+            "last_commit": "2025-01-17T17:37:18Z",
+            "owner": "cesium-ml",
+            "repo": "cesium",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thunder",
+          "description": "scalable analysis of image and time series data in python based on spark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10616272,
+            "language": "Python",
+            "last_commit": "2017-01-06T20:16:55Z",
+            "owner": "thunder-project",
+            "repo": "thunder",
+            "stars": 822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper",
+          "description": "File-based time-series database format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4254334,
+            "language": "Python",
+            "last_commit": "2025-12-01T07:01:19Z",
+            "owner": "graphite-project",
+            "repo": "whisper",
+            "stars": 1262
+          }
+        }
+      ],
+      "title": "Databases, frameworks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:01:53.540Z",
+    "last_updated": "2026-08-24T14:03:03.019Z",
     "original_repository": "MaxBenChrist/awesome_time_series_in_python",
     "original_repository_id": 100486833,
     "original_repository_sha": "c0207e32d03132a77b0f90592cee02f86fb7cb1b",

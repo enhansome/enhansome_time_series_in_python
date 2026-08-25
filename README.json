@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20364
+                "stars": 20366
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-07-06T22:04:14Z",
                 "owner": "deepcharles",
                 "repo": "ruptures",
-                "stars": 2073
+                "stars": 2074
               }
             },
             {
@@ -557,7 +557,7 @@
                 "last_commit": "2026-07-29T03:37:05Z",
                 "owner": "TA-Lib",
                 "repo": "ta-lib-python",
-                "stars": 12202
+                "stars": 12203
               }
             },
             {
@@ -881,7 +881,7 @@
             "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78601
+            "stars": 78603
           }
         },
         {
@@ -1000,7 +1000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:57:14.719Z",
+    "last_updated": "2026-08-25T05:55:42.489Z",
     "original_repository": "MaxBenChrist/awesome_time_series_in_python",
     "original_repository_id": 100486833,
     "original_repository_sha": "c0207e32d03132a77b0f90592cee02f86fb7cb1b",

@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-22T02:12:59Z",
                 "owner": "arrow-py",
                 "repo": "arrow",
-                "stars": 9048
+                "stars": 9047
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-21T08:30:55Z",
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9504
+                "stars": 9505
               }
             },
             {
@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:55:05Z",
+                "last_commit": "2026-08-25T22:44:19Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11589
+                "stars": 11592
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-07-27T13:04:38Z",
                 "owner": "alteryx",
                 "repo": "featuretools",
-                "stars": 7665
+                "stars": 7666
               }
             },
             {
@@ -209,7 +209,7 @@
                 "archived": false,
                 "id": 10790340,
                 "language": "MATLAB",
-                "last_commit": "2026-08-24T23:06:34Z",
+                "last_commit": "2026-08-25T23:07:28Z",
                 "owner": "benfulcher",
                 "repo": "hctsa",
                 "stars": 851
@@ -299,7 +299,7 @@
                 "archived": false,
                 "id": 56300322,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:50:04Z",
+                "last_commit": "2026-08-25T08:22:49Z",
                 "owner": "pastas",
                 "repo": "pastas",
                 "stars": 450
@@ -317,7 +317,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20366
+                "stars": 20368
               }
             },
             {
@@ -389,10 +389,10 @@
                 "archived": false,
                 "id": 276901861,
                 "language": "Python",
-                "last_commit": "2026-08-22T18:47:25Z",
+                "last_commit": "2026-08-25T15:09:53Z",
                 "owner": "sktime",
                 "repo": "pytorch-forecasting",
-                "stars": 4974
+                "stars": 4976
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-07-06T22:04:14Z",
                 "owner": "deepcharles",
                 "repo": "ruptures",
-                "stars": 2074
+                "stars": 2076
               }
             },
             {
@@ -449,7 +449,7 @@
                 "archived": false,
                 "id": 156401841,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:27:52Z",
+                "last_commit": "2026-08-25T15:12:55Z",
                 "owner": "sktime",
                 "repo": "sktime",
                 "stars": 9963
@@ -464,10 +464,10 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:55:05Z",
+                "last_commit": "2026-08-25T22:44:19Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11589
+                "stars": 11592
               }
             },
             {
@@ -479,10 +479,10 @@
                 "archived": false,
                 "id": 184809315,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:11:53Z",
+                "last_commit": "2026-08-26T02:38:40Z",
                 "owner": "stumpy-dev",
                 "repo": "stumpy",
-                "stars": 4149
+                "stars": 4148
               }
             },
             {
@@ -557,7 +557,7 @@
                 "last_commit": "2026-07-29T03:37:05Z",
                 "owner": "TA-Lib",
                 "repo": "ta-lib-python",
-                "stars": 12203
+                "stars": 12204
               }
             },
             {
@@ -572,7 +572,7 @@
                 "last_commit": "2026-07-23T21:55:35Z",
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6108
+                "stars": 6110
               }
             },
             {
@@ -587,7 +587,7 @@
                 "last_commit": "2026-03-18T13:04:55Z",
                 "owner": "bukosabino",
                 "repo": "ta",
-                "stars": 5181
+                "stars": 5180
               }
             },
             {
@@ -632,7 +632,7 @@
                 "last_commit": "2026-07-06T01:28:19Z",
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9296
+                "stars": 9298
               }
             },
             {
@@ -644,7 +644,7 @@
                 "archived": false,
                 "id": 90264407,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:17:01Z",
+                "last_commit": "2026-08-25T12:10:36Z",
                 "owner": "tslearn-team",
                 "repo": "tslearn",
                 "stars": 3174
@@ -815,7 +815,7 @@
             "last_commit": "2026-07-27T13:04:38Z",
             "owner": "alteryx",
             "repo": "featuretools",
-            "stars": 7665
+            "stars": 7666
           }
         },
         {
@@ -878,10 +878,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-24T19:56:43Z",
+            "last_commit": "2026-08-25T16:12:04Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78603
+            "stars": 78633
           }
         },
         {
@@ -1000,7 +1000,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:42.489Z",
+    "last_updated": "2026-08-26T03:03:30.973Z",
     "original_repository": "MaxBenChrist/awesome_time_series_in_python",
     "original_repository_id": 100486833,
     "original_repository_sha": "c0207e32d03132a77b0f90592cee02f86fb7cb1b",

@@ -72,7 +72,7 @@
                 "open_issues": 22,
                 "owner": "cesium-ml",
                 "repo": "cesium",
-                "stars": 683,
+                "stars": 684,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:01.816Z"
@@ -195,7 +195,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T18:27:55Z",
-                "open_issues": 2807,
+                "open_issues": 2810,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
                 "stars": 11598,
@@ -233,7 +233,7 @@
                 "open_issues": 169,
                 "owner": "alteryx",
                 "repo": "featuretools",
-                "stars": 7670,
+                "stars": 7671,
                 "topics": [
                   "automated-feature-engineering",
                   "automated-machine-learning",
@@ -826,8 +826,8 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T00:42:04Z",
-                "open_issues": 2404,
+                "last_commit": "2026-08-29T08:02:25Z",
+                "open_issues": 2400,
                 "owner": "sktime",
                 "repo": "sktime",
                 "stars": 9972,
@@ -864,7 +864,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T18:27:55Z",
-                "open_issues": 2807,
+                "open_issues": 2810,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
                 "stars": 11598,
@@ -1512,7 +1512,7 @@
             "open_issues": 169,
             "owner": "alteryx",
             "repo": "featuretools",
-            "stars": 7670,
+            "stars": 7671,
             "topics": [
               "automated-feature-engineering",
               "automated-machine-learning",
@@ -1624,7 +1624,7 @@
             "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78694,
+            "stars": 78696,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1773,7 +1773,7 @@
             "open_issues": 22,
             "owner": "cesium-ml",
             "repo": "cesium",
-            "stars": 683,
+            "stars": 684,
             "topics": []
           },
           "first_seen": "2026-08-28T13:48:01.816Z"
@@ -1833,7 +1833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:21.869Z",
+    "last_updated": "2026-08-29T08:39:10.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "This curated list contains  python packages for time series analysis",

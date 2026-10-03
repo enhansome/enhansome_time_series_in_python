@@ -382,8 +382,8 @@
                 "id": 10790340,
                 "language": "MATLAB",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T04:24:05Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T05:28:06Z",
+                "open_issues": 2,
                 "owner": "benfulcher",
                 "repo": "hctsa",
                 "stars": 858,
@@ -827,10 +827,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-29T17:52:28Z",
-                "open_issues": 2559,
+                "open_issues": 2560,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10052,
+                "stars": 10053,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1627,7 +1627,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79277,
+            "stars": 79278,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:05.665Z",
+    "last_updated": "2026-10-03T07:37:02.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "This curated list contains  python packages for time series analysis",

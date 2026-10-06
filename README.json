@@ -72,7 +72,7 @@
                 "open_issues": 22,
                 "owner": "cesium-ml",
                 "repo": "cesium",
-                "stars": 683,
+                "stars": 684,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:01.816Z"
@@ -93,7 +93,7 @@
                 "open_issues": 232,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9533,
+                "stars": 9534,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -194,8 +194,8 @@
                 "id": 1885237,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-05T21:50:02Z",
-                "open_issues": 2797,
+                "last_commit": "2026-10-06T09:01:30Z",
+                "open_issues": 2796,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
                 "stars": 11673,
@@ -233,7 +233,7 @@
                 "open_issues": 169,
                 "owner": "alteryx",
                 "repo": "featuretools",
-                "stars": 7685,
+                "stars": 7686,
                 "topics": [
                   "automated-feature-engineering",
                   "automated-machine-learning",
@@ -350,7 +350,7 @@
                 "open_issues": 120,
                 "owner": "AIStream-Peelout",
                 "repo": "flow-forecast",
-                "stars": 2302,
+                "stars": 2303,
                 "topics": [
                   "anomaly-detection",
                   "deep-learning",
@@ -412,7 +412,7 @@
                 "open_issues": 80,
                 "owner": "hmmlearn",
                 "repo": "hmmlearn",
-                "stars": 3436,
+                "stars": 3437,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:48:01.816Z"
@@ -517,7 +517,7 @@
                 "open_issues": 60,
                 "owner": "uber",
                 "repo": "orbit",
-                "stars": 2079,
+                "stars": 2080,
                 "topics": [
                   "arima",
                   "bayesian",
@@ -776,7 +776,7 @@
                 "open_issues": 39,
                 "owner": "deepcharles",
                 "repo": "ruptures",
-                "stars": 2093,
+                "stars": 2094,
                 "topics": [
                   "change-point-detection",
                   "changepoint",
@@ -827,10 +827,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-04T18:17:21Z",
-                "open_issues": 2583,
+                "open_issues": 2586,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10055,
+                "stars": 10056,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -863,8 +863,8 @@
                 "id": 1885237,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-05T21:50:02Z",
-                "open_issues": 2797,
+                "last_commit": "2026-10-06T09:01:30Z",
+                "open_issues": 2796,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
                 "stars": 11673,
@@ -953,7 +953,7 @@
                 "id": 108053674,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T22:07:13Z",
+                "last_commit": "2026-10-06T09:49:49Z",
                 "open_issues": 731,
                 "owner": "tensorflow",
                 "repo": "probability",
@@ -1044,7 +1044,7 @@
                 "open_issues": 134,
                 "owner": "TA-Lib",
                 "repo": "ta-lib-python",
-                "stars": 12272,
+                "stars": 12273,
                 "topics": [
                   "finance",
                   "pattern-recognition",
@@ -1072,7 +1072,7 @@
                 "open_issues": 31,
                 "owner": "timeseriesAI",
                 "repo": "tsai",
-                "stars": 6122,
+                "stars": 6123,
                 "topics": [
                   "classification",
                   "cnn",
@@ -1210,7 +1210,7 @@
                 "open_issues": 75,
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9466,
+                "stars": 9468,
                 "topics": [
                   "data-science",
                   "feature-extraction",
@@ -1329,7 +1329,7 @@
                 "open_issues": 10,
                 "owner": "kgmonkhin",
                 "repo": "ESRNN-GPU",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "deep-forecasting",
                   "deep-learning",
@@ -1357,7 +1357,7 @@
                 "open_issues": 14,
                 "owner": "hfawaz",
                 "repo": "dl-4-tsc",
-                "stars": 1659,
+                "stars": 1660,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -1515,7 +1515,7 @@
             "open_issues": 169,
             "owner": "alteryx",
             "repo": "featuretools",
-            "stars": 7685,
+            "stars": 7686,
             "topics": [
               "automated-feature-engineering",
               "automated-machine-learning",
@@ -1562,7 +1562,7 @@
             "id": 13221727,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T08:13:19Z",
+            "last_commit": "2026-10-06T08:38:39Z",
             "open_issues": 1428,
             "owner": "pydata",
             "repo": "xarray",
@@ -1627,7 +1627,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79324,
+            "stars": 79328,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -1755,7 +1755,7 @@
             "open_issues": 4,
             "owner": "crawles",
             "repo": "automl_service",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T13:48:01.816Z"
@@ -1776,7 +1776,7 @@
             "open_issues": 22,
             "owner": "cesium-ml",
             "repo": "cesium",
-            "stars": 683,
+            "stars": 684,
             "topics": []
           },
           "first_seen": "2026-08-28T13:48:01.816Z"
@@ -1836,7 +1836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:35:19.259Z",
+    "last_updated": "2026-10-06T11:07:50.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "This curated list contains  python packages for time series analysis",
